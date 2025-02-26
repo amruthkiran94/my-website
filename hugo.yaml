@@ -1,0 +1,24 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: AK
+theme: ["PaperMod"]
+params:
+  profileMode:
+    enabled: true
+    title: "Amruth Kiran" # optional default will be site title
+    subtitle: "Spatial Data on and off the Web"
+    imageUrl: "profile.jpg" # optional
+    imageTitle: "<title of image as alt>" # optional
+    imageWidth: 220 # custom size
+    imageHeight: 220 # custom size
+  socialIcons: # optional
+    - name: "Github"
+      url: "https://github.com/amruthkiran94"
+    - name: "X"
+      url: "https://x.com/Amruthkiran94"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/amruth-kiran/"
+    - name: "mastodon"
+      url: "https://mapstodon.space/@amruthkiran"
+    - name: "Reddit"
+      url: "https://www.reddit.com/user/amruthkiran94/"
